@@ -1,3 +1,4 @@
+// Seth Khan - FizzBizz Puzzle - 2022 JJAY TTP Bootcamp
 // Declare function fizzbuzz().
 function fizzbuzz() {
 
